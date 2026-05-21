@@ -1,0 +1,13 @@
+district_code,district_name,total_accidents,bicycle_accidents,pedestrian_accidents,car_accidents,motorcycle_accidents,percentage_share
+1,Mitte,1761,803,213,1331,265,15.63
+4,Charlottenburg-Wilmersdorf,1398,470,147,1160,230,12.41
+2,Friedrichshain-Kreuzberg,1107,582,129,815,161,9.83
+7,Tempelhof-Schöneberg,1059,331,142,873,170,9.40
+3,Pankow,1011,481,128,770,134,8.97
+8,Neukölln,799,276,126,672,108,7.09
+9,Treptow-Köpenick,776,317,102,615,84,6.89
+6,Steglitz-Zehlendorf,757,260,107,626,120,6.72
+12,Reinickendorf,729,184,96,632,108,6.47
+5,Spandau,713,153,104,592,126,6.33
+11,Lichtenberg,619,227,89,492,94,5.49
+10,Marzahn-Hellersdorf,538,167,77,460,56,4.78

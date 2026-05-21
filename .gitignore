@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python / notebook cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Temporary files
+*.log
