@@ -156,6 +156,26 @@ This confirms that the raw CSV was successfully imported and transformed into a 
 
 ---
 
+## Screenshots
+
+### Clean Table Preview
+
+![Clean Table Preview](images/clean_table_preview.png)
+
+### District Accident Summary
+
+![District Accident Summary](images/district_accident_summary.png)
+
+### Hourly Accident Pattern
+
+![Hourly Accident Pattern](images/hourly_accident_pattern.png)
+
+### Vehicle Involvement Summary
+
+![Vehicle Involvement Summary](images/vehicle_involvement_summary.png)
+
+---
+
 ## Key Findings
 
 Berlin recorded 11,267 road traffic accident records in the 2021 dataset.
